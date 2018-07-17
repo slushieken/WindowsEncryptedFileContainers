@@ -1,7 +1,7 @@
 WindowsEncryptedFileContainers
 =====
 
-_BitLocker encrypted filesystem containers providing encryption combined with automatic boot time mounting._
+_BitLocker encrypted filesystem containers providing encryption for data at rest combined with automatic boot time mounting._
 
 #### Introduction
 
