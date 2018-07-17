@@ -1,4 +1,4 @@
-# WindowsEncryptedFileContainers
+WindowsEncryptedFileContainers
 =====
 
 _BitLocker encrypted filesystem containers providing encryption combined with automatic boot time mounting._
