@@ -1,9 +1,9 @@
-WindowsEncryptedFileContainers
+# WindowsEncryptedFileContainers
 =====
 
 _BitLocker encrypted filesystem containers providing encryption for data at rest combined with automatic boot time mounting._
 
-#### Introduction
+## Introduction
 
 Windows Encrypted File Containers creates, manages, and mounts at boot individual BitLocker encrypted VHD or VHDX file containers, providing Confidentiality of data at rest.
 
@@ -13,8 +13,7 @@ These mounted containers can further be unlocked, shared, and permissioned via W
 
 This gives isolation of confidential data from the storage media it is resting on (removing requirements for secure file shredding/wiping), as well isolating data in one container from another (avoidance of commingling).
 
-BitLocker provides decryption options using:
-
+## BitLocker provides decryption options using:
 - Password with a Recovery Key
 - Trusted Platform Module (TPM) (locking it to a device)
 - Network Unlock
