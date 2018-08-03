@@ -1,0 +1,16 @@
+{
+    "LogPath": "%TEMP%",
+    "KeepLogsCount": "5",
+    "ContainersPath": "D:\\containers\\",
+    "MountsPath": "D:\\confidential\\",
+    
+    "ContainerDefinitions": {
+        "container1": {
+            "RecoveryKey": "cont1-3333-ssss-23222"
+        },
+        
+        "container2": {
+            "RecoveryKey": "cont2-3333-ssss-23222"
+        }
+    }
+}
