@@ -17,4 +17,4 @@ This gives isolation of confidential data from the storage media it is resting o
 - Trusted Platform Module (TPM) (locking it to a device)
 - Network Unlock
 
-An NTFS file system is a required to mount containers automatically at boot. It would be possible however to manually mount containers in any way you need, on any OS that supports VHD mounting and BitLocker decryption.
+> An NTFS file system is a required to mount containers automatically at boot. It would be possible however to manually mount containers in any way you need, on any OS that supports VHD mounting and BitLocker decryption.
