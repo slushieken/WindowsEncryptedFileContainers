@@ -13,7 +13,7 @@ These mounted containers can further be unlocked, shared, and permissioned via W
 This gives isolation of confidential data from the storage media it is resting on (removing requirements for secure file shredding/wiping), as well isolating data in one container from another (avoidance of commingling).
 
 ## BitLocker provides decryption options using:
-- Password with a Recovery Key
+- Password with a Recovery Key (Password or hash)
 - Trusted Platform Module (TPM) (locking it to a device)
 - Network Unlock
 
